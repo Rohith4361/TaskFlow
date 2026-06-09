@@ -1,0 +1,6 @@
+{
+  "name": "TaskNexus",
+  "description": "An enterprise-grade task manager with intelligent scheduling, rich category progress tracking, and AI-powered productivity insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
